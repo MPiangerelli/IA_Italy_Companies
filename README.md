@@ -27,6 +27,13 @@ This repository contains the data and tables used in the paper **Broad but shall
 | `catalog.csv` | One row per document of the multivocal review (134 documents: 53 peer-reviewed, 34 institutional, 47 think tank and consultancy): publisher, authors, title, year, type, URL and DOI, population, sample size, sampling method, operational definition of AI adoption, manufacturing coverage, AACODS appraisal score (0-12), conflict-of-interest flag, verification status |
 | `findings.csv` | One row per extracted finding (730 rows, 666 quantitative and 61 qualitative): source id, metric, value, unit, reference year, page reference and verbatim excerpt |
 
+### `review/` : search protocol
+
+| Path | Content |
+|---|---|
+| `extraction_schema.md` | Coding scheme applied to every document (fields, AACODS criteria, conflict-of-interest flag, verification rule) |
+| `search_log_*.md` | Search logs of the three layers and of the second consultancy round: databases and queries, dates, records identified, screened, included and excluded with reasons (PRISMA-style counts) |
+
 ## Notes on use
 
 - Eurostat and ISTAT disseminate the same survey (the Italian part of the EU survey on ICT usage in enterprises, carried out by ISTAT on a probability sample of about 17,000 enterprises with 10 or more persons employed). Wherever both publish a cell, the values coincide.
