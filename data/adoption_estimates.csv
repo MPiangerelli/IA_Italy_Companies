@@ -1,0 +1,16 @@
+source_id,family,label,population,definition,ref_year,value,page
+brunetti2026aipath,Central banks and academic,INAPP-RIL,firms 9+ employees,invested in AI 2019-21,2021,1.3,PDF p.11
+montresor2023twin,Central banks and academic,ISTAT census (Montresor & Vezzani),firms 3+ employees,invested in 'AI area' 2016-18,2018,4.8,p.12-13
+bdi2026qef1009,Central banks and academic,Bank of Italy INVIND,firms 20+ employees,intensive use,2026,5,PDF p.7
+polimi2026osservatorioai,"Observatories, associations, consultancies",PoliMi Observatory,SMEs,at least one AI project,2025,8,press release
+bdi2026qef1005,Central banks and academic,Bank of Italy SIGE,firms 50+ employees,already using AI (incl. cloud/robotics examples),2024,11.2,p.12
+bdi2025qef946,Central banks and academic,Bank of Italy INVIND,firms 20+ employees,"any use, incl. experimental",2024,13,p.5
+csc2026lavoro,"Observatories, associations, consultancies",Confindustria survey,"member firms, industry",regular use,2026,14.2,p.17
+eurostat2026isocebai,Official statistics,Eurostat / ISTAT ICT survey,"manufacturing firms 10+",uses 1+ of 8 AI technologies,2025,14.7,isoc_eb_ain2
+istat2025ict,Official statistics,ISTAT ICT survey,firms 10+ employees,uses 1+ of 8 AI technologies,2025,16.4,p.2
+eib2025eibisit,Central banks and academic,EIB Investment Survey,"firms 5+, value-added weighted",systematic GenAI use,2025,20,p.23
+bdi2026invind,Central banks and academic,Bank of Italy INVIND,firms 20+ employees,"any use, incl. experimental",2026,32,p.5
+eib2025eibisit,Central banks and academic,EIB Investment Survey,"manufacturing firms 5+, VA-weighted",big data / AI in parts of business,2025,33,p.22
+teha2023ai4italy,"Observatories, associations, consultancies",TEHA AI 4 Italy,~100 network firms (opt-in),have tried AI solutions,2023,50,web page
+ferrando2026euroarea,Central banks and academic,ECB SAFE survey,"firms of all sizes, weighted","any use, incl. pilots",2025,52,p.17
+polimi2026osservatorioai,"Observatories, associations, consultancies",PoliMi Observatory,large firms,at least one AI project,2025,71,press release
