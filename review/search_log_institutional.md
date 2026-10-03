@@ -92,10 +92,10 @@ istat2025ict, istat2024ict, istat2023ict, istat2026ra, eurostat2026isocebai, eur
 17. OECD "Closing the Italian digital gap" (Calvino et al., 2022): pre-GenAI, general digital policy paper; better covered by the peer-reviewed/think-tank layers.
 18. Secondary press coverage (ANSA, Il Sole 24 Ore, key4biz, digitalworlditalia; counted as one screened record): news coverage of included primary sources, no primary data.
 
-### Could not verify (recorded with verified=false, no findings)
+### Could not verify at first pass (records later removed as duplicates, 3 October 2026)
 
-- oecd2026cpaimanuf: OECD page returned HTTP 403 to both WebFetch and curl. Snippet claims (EU manufacturing AI adoption 11% in 2024; Italy 5.2%) not recorded as findings.
-- anitec2026digit: official PDF link returned an HTML page. Press-reported figures (AI spending EUR 1.38 bn in 2025, +47.6%) not recorded as findings.
+- oecd2026cpaimanuf: OECD page returned HTTP 403 to both WebFetch and curl. Snippet claims (EU manufacturing AI adoption 11% in 2024; Italy 5.2%) not recorded as findings. On 3 October 2026 the author supplied the full PDFs of both volumes: the chapter is part of the report already catalogued as oecd2026eucpai_v2 (identical PDF), so the chapter record was removed; Figure 4.3 shows Italy at about 8% in 2024 (consistent with Eurostat isoc_eb_ain2: 8.0%), so the 5.2% snippet figure was wrong. Volume 1 (Member States' Actions, doi 10.1787/533c355d-en) was added as oecd2026eucpai_v1 (policy stock-taking, RQ3).
+- anitec2026digit: official PDF link returned an HTML page. The report was later obtained and catalogued as anitec2026digitale (verified); the duplicate record anitec2026digit was removed.
 
 ### DOI checks
 
