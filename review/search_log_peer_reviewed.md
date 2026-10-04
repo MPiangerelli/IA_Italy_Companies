@@ -124,6 +124,9 @@ Note on the full-text count: shah2026aitransform and leoni2022aikm were read as 
 
 ### Relevant but not retrieved (candidates for an update round)
 
+**Resolution (4 October 2026).** Calabrese 2024, Agostini 2019 and Cucculelli 2026 were also found by the supplementary search and entered the corpus once their full texts were obtained; Avarello 2026, Calabrese 2022 and Jegerson 2026 are among the supplementary reports not retrieved. Of the remaining six: Pisano et al. 2026 is a report not retrieved (no full text and no abstract obtainable; `sources/catalog_not_retrieved.csv`); Capone et al. 2026 was excluded on its abstract (cultural and creative industries, outside manufacturing); Diletta et al. 2025 was excluded on the full text (156 employees of unspecified agri-food companies, no food-manufacturing breakdown, adoption intention only); Romanello and Veglio 2022 was excluded on the full text (single-company case study, the rule applied in the supplementary search); Garlatti Costa et al. (IJVCM) and Forgione and Migliardo 2026 (IJIS) were excluded because no version of record was published by 3 October 2026 (forthcoming article; journal pre-proof), under the inclusion criterion added on that date. Coding and reasons in `sources/excluded_after_eligibility.jsonl`.
+
+
 Not included because they could not be accessed or verified in this round. Where a DOI is given, Crossref was not checked.
 
 - Pisano, Lombardo, Bognetti (2026) *AI Adoption by Italian Startups: A Measurement Framework*, LNNS, 10.1007/978-3-032-23684-5_74.
