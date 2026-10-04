@@ -24,7 +24,7 @@ This repository contains the data and tables used in the paper **Broad but shall
 
 | Path | Content |
 |---|---|
-| `catalog.csv` | One row per document of the review corpus (189 documents, all read in full: 109 peer-reviewed, 33 institutional, 47 think tank and consultancy): publisher, authors, title, year, type, URL and DOI, population, sample size, sampling method, operational definition of AI adoption, manufacturing coverage, AACODS appraisal score (0-12), conflict-of-interest flag |
+| `catalog.csv` | One row per document of the review corpus (189 documents: 109 peer-reviewed, 33 institutional, 47 think tank and consultancy): publisher, authors, title, year, type, URL and DOI, population, sample size, sampling method, operational definition of AI adoption, manufacturing coverage, AACODS appraisal score (0-12), conflict-of-interest flag; every quantitative result is located in the full text or open web page of the source, and the few background anchors coded from abstracts only are flagged in the `notes` column |
 | `findings.csv` | One row per extracted finding (1,650 rows, 1,373 quantitative and 277 qualitative): source id, metric, value, unit, reference year, page reference and verbatim excerpt |
 | `catalog_not_retrieved.csv`, `findings_not_retrieved.csv` | The 17 records that met the inclusion criteria but whose full text could not be obtained (PRISMA 2020 "reports not retrieved": one monograph and 16 records of the supplementary Scopus and Web of Science search), with DOI and abstract-level coding; they are not part of the corpus and are not cited in the paper |
 
