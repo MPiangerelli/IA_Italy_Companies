@@ -44,6 +44,7 @@ This repository contains the data and tables used in the paper **Broad but shall
 - Eurostat and ISTAT disseminate the same survey (the Italian part of the EU survey on ICT usage in enterprises, carried out by ISTAT on a probability sample of about 17,000 enterprises with 10 or more persons employed). Wherever both publish a cell, the values coincide.
 - In the ISTAT tables, adoption rates are percentages of all enterprises, while technology and business-function shares are percentages of AI-using enterprises; ISTAT labels the technology items "finalità" although they are technologies and not business functions. See `data/istat/SOURCES.md`.
 - The AI technology list of the survey gained an item (generation of images, video or audio) in 2025, so the headline indicator is not strictly comparable between 2024 and 2025; individual technology items are stable.
+- The version-of-record criterion of the review concerns publication status, not the copy read: for some articles whose version of record could not be accessed, figures were extracted from an openly available working-paper, accepted-manuscript or preprint version of the same study. The version read is stated for each document in the `notes` column of `catalog/catalog.csv`, and the list is in `review/version_of_record_audit.md`; page references refer to the version read.
 - Original documents of the review corpus (reports, journal articles) are not redistributed; `catalog.csv` gives the URL or DOI of each.
 
 ## Licence and citation
