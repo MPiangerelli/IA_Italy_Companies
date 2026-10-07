@@ -18,6 +18,7 @@ This repository contains the data and tables used in the paper **Broad but shall
 | `istat/asi2024/D21/`, `istat/asi2025/D21/` | Tables of chapter 21 of the *Annuario statistico italiano* 2024 and 2025 (tables 21.15 and 21.16: AI by macro-sector x size class x technology, and by economic activity x technology; reference years 2023 and 2024) | ISTAT, https://www.istat.it/storage/ASI/2024/dati/D21.zip and .../2025/dati/D21.zip |
 | `istat/SOURCES.md` | Documentation of the ISTAT files: table structure, denominators (adoption rates = % of all enterprises; technology and function shares = % of AI-using enterprises; barriers = % of non-users that considered AI), ATECO aggregates used by ISTAT (C24+C25, C27+C28, C29+C30), and the cells that are not published | |
 | `figure_values.csv` | Every value plotted in the figures of the paper, with dataset, indicator code, unit, year and breakdown | derived |
+| `derived_ppp_sensitivity.csv` | Use of AI in production processes in manufacturing (Italy and EU27, 2023-2025) and its upper bound if adopters that name no purpose (39 per cent in Italy in 2025, after the rewording of the question) used AI in production in the same proportion as the others; formula included | derived from `eurostat_isoc_eb_ain2.csv` |
 | `adoption_estimates.csv` | The sixteen published estimates of AI adoption in Italy compared in the paper, each with source id, population, definition, reference year and page | derived from the catalog |
 
 ### `catalog/` : the review corpus

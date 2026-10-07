@@ -1,0 +1,7 @@
+geo,year,E_AI_PPP_pc_ent,E_AI_P1ANY_pc_adopters,no_purpose_pc_adopters,ppp_proportional_upper_bound,formula
+IT,2023,2.59,91.55,8.45,2.83,E_AI_PPP / (E_AI_P1ANY share of AI users / 100)
+IT,2024,2.25,84.96,15.04,2.65,E_AI_PPP / (E_AI_P1ANY share of AI users / 100)
+IT,2025,2.31,60.7,39.3,3.81,E_AI_PPP / (E_AI_P1ANY share of AI users / 100)
+EU27_2020,2023,2.59,75.93,24.07,3.41,E_AI_PPP / (E_AI_P1ANY share of AI users / 100)
+EU27_2020,2024,2.77,76.48,23.52,3.62,E_AI_PPP / (E_AI_P1ANY share of AI users / 100)
+EU27_2020,2025,3.49,68.99,31.01,5.06,E_AI_PPP / (E_AI_P1ANY share of AI users / 100)
