@@ -25,20 +25,21 @@ This repository contains the data and tables used in the paper **Broad but shall
 
 | Path | Content |
 |---|---|
-| `catalog.csv` | One row per document of the review corpus (189 documents: 109 academic, of which 103 peer-reviewed and 6 working papers, 33 institutional, 47 think tank and consultancy): publisher, authors, title, year, type, URL and DOI, population, sample size, sampling method, operational definition of AI adoption, manufacturing coverage, AACODS appraisal score (0-12), conflict-of-interest flag; every quantitative result is located in the full text or open web page of the source, and the few background anchors coded from abstracts only are flagged in the `notes` column |
-| `findings.csv` | One row per extracted finding (1,650 rows, 1,373 quantitative and 277 qualitative): source id, metric, value, unit, reference year, page reference and verbatim excerpt |
-| `catalog_not_retrieved.csv`, `findings_not_retrieved.csv` | The 18 records that met the inclusion criteria but whose full text could not be obtained (PRISMA 2020 "reports not retrieved": a monograph and a conference paper of the open search and 16 records of the supplementary Scopus and Web of Science search), with DOI and abstract-level coding; they are not part of the corpus and are not cited in the paper |
-| `excluded_after_eligibility.jsonl` | Five records of the open search assessed after retrieval and excluded, with the reason (outside manufacturing, single-company case, not yet published in version of record) |
+| `catalog.csv` | One row per document of the review corpus (187 documents published between January 2019 and August 2026: 109 academic, of which 103 peer-reviewed and 6 working papers, 33 institutional, 45 think tank and consultancy): publisher, authors, title, year, type, URL and DOI, population, sample size, sampling method, operational definition of AI adoption, manufacturing coverage, AACODS appraisal score (0-12), conflict-of-interest flag; every quantitative result is located in the full text or open web page of the source, and the few background anchors coded from abstracts only are flagged in the `notes` column |
+| `findings.csv` | One row per extracted finding (1,637 rows, 1,360 quantitative and 277 qualitative): source id, metric, value, unit, reference year, page reference and verbatim excerpt |
+| `catalog_not_retrieved.csv`, `findings_not_retrieved.csv` | The 18 records that met the inclusion criteria but whose full text could not be obtained (PRISMA 2020 "reports not retrieved": one monograph, six book chapters, three conference papers and eight journal articles), with DOI and abstract-level coding; they are not part of the corpus and are not cited in the paper |
+| `excluded_after_eligibility.jsonl` | Records assessed and excluded, with the reason (outside manufacturing, single-company case, not yet published in version of record, released after the 31 August 2026 cutoff) |
 
 ### `review/` : search protocol
 
 | Path | Content |
 |---|---|
 | `extraction_schema.md` | Coding scheme applied to every document (fields, AACODS criteria, conflict-of-interest flag, verification rule) |
-| `search_log_*.md` | Search logs of the three layers, of the second consultancy round and of the supplementary Scopus and Web of Science search: databases and queries, dates, records identified, screened, included and excluded with reasons (PRISMA-style counts) |
+| `search_log_*.md` | Search logs of the three layers, of the second consultancy round and of the Scopus and Web of Science queries: databases and queries, dates, records identified, screened, included and excluded with reasons (PRISMA-style counts) |
+| `publication_date_audit.csv` | Publication or release date of every 2026 document, checked against the 31 August 2026 cutoff |
 | `version_of_record_audit.md`, `.csv` | Publication status of every academic document (version of record in an issue, online first, book, working paper) checked on Crossref on 4 October 2026, and the documents whose figures were extracted from a working-paper or accepted-manuscript version |
 | `supplementary_search_scopus_wos.md` | Query strings used in Scopus and Web of Science (six topics, 2019-2026) |
-| `supplementary_search/screened_all.csv` | Title-and-abstract screening decisions for the 1,732 unique records of the supplementary search not already in the catalog (title, authors, year, source, DOI, decision, reason); `includes_for_extraction.csv` lists the 73 records that met the criteria; `import_summary.md` gives the per-file de-duplication counts. The raw database exports are not redistributed |
+| `supplementary_search/screened_all.csv` | Title-and-abstract screening decisions for the 1,732 unique Scopus and Web of Science records not already found in the other databases (title, authors, year, source, DOI, decision, reason); `includes_for_extraction.csv` lists the 73 records that met the criteria; `import_summary.md` gives the per-file de-duplication counts. The raw database exports are not redistributed |
 
 ## Notes on use
 

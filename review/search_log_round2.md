@@ -128,3 +128,7 @@ Direct fetches: Gartner newsroom (5 releases via Wayback), KPMG US Pulse article
 - Self-assessment contradictions: KPMG IM cut 83% "strong data foundations" vs 76% "unreliable data is a top risk"; KPMG IM&A 74% "employees have right skills" vs 33% "skills gap is the top talent challenge".
 - Manufacturing suppressed for small base: McKinsey 2024 does not report manufacturing impact data (p.10); Gartner manufacturing survey n=128.
 - Institutional gap: AGCOM's 2026 AI report (332 pages over two parts) contains no measure of enterprise adoption; Anitec-Assinform relies on Istat for adoption and on vendor interviews for spending.
+
+
+## Note (7 October 2026)
+Under the publication cutoff of 31 August 2026 adopted on 7 October 2026, kpmg2026pulseq3 (released 25 September 2026) and idc2026europeai (17 September 2026) were removed from the corpus; reasons in `sources/excluded_after_eligibility.jsonl`.

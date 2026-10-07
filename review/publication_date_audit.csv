@@ -1,0 +1,59 @@
+id,layer,doc_type,publication_date,evidence,after_cutoff
+istat2026ra,institutional,policy_report,2026-05-21,"PDF cover: ""Presentato giovedi 21 maggio 2026""; PDF creationDate 2026-05-20",no
+eurostat2026isocebai,institutional,statistical_release,2026-06-15,Dataset (out of scope of the rule): Eurostat dataset last update 2026-06-15 per fieldwork field,no
+eurostat2026aiuse,institutional,statistical_release,2026-03,"PDF imprint ""Publications Office of the EU, 2026"", KS-01-26-009; PDF creationDate 2026-03-16",no
+bdi2026qef1005,institutional,working_paper,2026-03,"PDF cover ""Number 1005 March 2026""; creationDate 2026-02-28",no
+bdi2026qef1009,institutional,working_paper,2026-06,"PDF cover ""Numero 1009 Giugno 2026""; creationDate 2026-06-10",no
+bdi2026invind,institutional,survey_report,2026-07-01,"PDF cover ""Statistiche 01 luglio 2026""",no
+bdi2026cf,institutional,policy_report,2026-05-29,"URL path integov2026/20260529 (Governor final remarks, 29 May 2026)",no
+ec2026ddcrit,institutional,policy_report,2026-06-17,"PDF SWD(2026) 155 ""Brussels, 17.6.2026""; Italy factpage dated 24 August 2026 (curl); both pre-cutoff",no
+polimi2026osservatorioai,institutional,web_page,2026-02-05,Press release page datePublished 2026-02-05 (curl),no
+polimi2026osservatoriopmi,institutional,web_page,2026-05-21,Press release page datePublished 2026-05-21 (curl),no
+isp2026distretti,institutional,survey_report,2026-06,"PDF cover ""Giugno 2026"", info available to 19 giugno 2026; creationDate 2026-06-24",no
+csc2026lavoro,institutional,survey_report,2026-07-31,"PDF ""Nota dal CSC Numero 2/26 - 31 luglio 2026"" (inner page 30 luglio); creationDate 2026-07-30",no
+eurostat2026sbs,institutional,statistical_release,2026-09-15,"Dataset (out of scope of the rule): dataset updated 2026-09-15, downloaded 2026-09-30 (catalog fieldwork/notes)",no
+oecd2026eucpai_v1,institutional,policy_report,2025-11-10,Crossref published-print/issued 2025-11-10 (catalog year 2026 is inconsistent); PDF creationDate 2025-10-31,no
+deloitte2026stateai,thinktank_consulting,survey_report,2026-01,"PDF cover ""January 2026""; creationDate 2026-01-15 (landing page datePublished 30 Sep 2026 = page update)",no
+deloitte2026stateai_eri,thinktank_consulting,survey_report,2026-03,"PDF cover ""March 2026""; creationDate 2026-02-23",no
+deloitte2026stateai_it,thinktank_consulting,web_page,2026-02-04,Press release page datePublished 2026-02-04 (curl),no
+deloitte2026aimanuf,thinktank_consulting,survey_report,2026-06,"PDF ""Deloitte Survey June 2026""; creationDate 2026-06-25",no
+mgi2026agents,thinktank_consulting,policy_report,2026-05,"PDF cover ""May 2026""; creationDate 2026-05-13",no
+wef2026gln,thinktank_consulting,policy_report,2026-01,"PDF cover ""January 2026"", (c) 2026; creationDate 2026-01-21",no
+pwc2026ceoitaly,thinktank_consulting,web_page,2026-01-20,Blog page datePublished/article:published_time 2026-01-20 (curl),no
+microsoft2026aidiffusion,thinktank_consulting,working_paper,2026-01,"PDF cover ""January, 2026""; creationDate 2026-01-08; URL uploads/2026/01",no
+voxeu2026centralbanksai,thinktank_consulting,working_paper,2026-01-09,VoxEU column dated 9 Jan 2026 (Wayback snapshot 2026-02-02; cepr.org returns 403 to curl),no
+voxeu2026bickgap,thinktank_consulting,working_paper,2026-04-09,VoxEU column dated 9 Apr 2026 (Wayback snapshot 2026-04-09; cepr.org 403),no
+voxeu2026aldasoro,thinktank_consulting,working_paper,2026-02-17,VoxEU column dated 17 Feb 2026 (Wayback snapshot 2026-09-22 and listing in 2026-04-09 snapshot; cepr.org 403),no
+brunetti2026aipath,peer_reviewed,journal_article,2025-10-28,Crossref published-online 2025-10-28 (issue 2026-10-03),no
+garlatticosta2026readiness,peer_reviewed,journal_article,2026-03-24,"PDF ""Published online: 24 March 2026""; Crossref print 2026",no
+shah2026aitransform,peer_reviewed,journal_article,2026-08-11,Crossref published-online 2026-08-11 (accepted 16 July 2026; issue 2026-12-14),no
+neirotti2026family,peer_reviewed,journal_article,2025-08-07,"PDF ""Available online 7 August 2025""; Crossref issue April 2026",no
+antonazzo2026skills,peer_reviewed,journal_article,2025-07-25,Crossref published-online 2025-07-25 (issue Jan 2026),no
+crespi2026digindex,peer_reviewed,journal_article,2026-04-17,"PDF ""Published online: 17 Apr 2026""; Crossref online 2026-04-17",no
+ferrando2026euroarea,peer_reviewed,working_paper,2026-07,RePEc citation_publication_date 2026/07 for ECB OP 395; PDF modDate 2026-07-20; SSRN DOI record created 2026-07-29,no
+calabrese2025automotive,peer_reviewed,journal_article,2025-03-25,PDF/Crossref published online 2025-03-25 (issue 2026-01-02),no
+cette2026drivers,peer_reviewed,working_paper,2026-08,"PDF ""Date: August 2026"" (TPI WP 077), modDate 2026-08-14; SSRN DOI record created 2026-07-14",no
+gartner2026aisupplychain,thinktank_consulting,web_page,2026-04-29,Press release URL dated 2026-04-29,no
+gartner2026scorchestration,thinktank_consulting,web_page,2026-05-06,"Press release URL dated 2026-05-06; notes ""6 May 2026 release""",no
+kpmg2026techreport,thinktank_consulting,survey_report,2026-01,"PDF (c) 2026, creationDate 2026-01-06 (landing page datePublished 2026-07-17 = page update; no printed release date)",no
+kpmg2026techreport_im,thinktank_consulting,survey_report,2026-04,"URL path insights/2026/04; PDF (c) 2026, creationDate 2026-04-28",no
+kpmg2026pulseq3,thinktank_consulting,survey_report,2026-09-25,"PDF cover ""September 2026"", fieldwork 24 Jul-25 Aug 2026, creationDate 2026-09-23; KPMG US landing page datePublished 2026-09-25 (curl)",yes
+idc2026europeai,thinktank_consulting,web_page,2026-09-17,"IDC press release page datePublished 2026-09-17 (curl); catalog fieldwork ""release 17 September 2026""",yes
+bcg2026aiatwork_it,thinktank_consulting,web_page,2026-06-24,URL /press/24june2026; release 24 June 2026 (catalog),no
+bcg2026airadar_it,thinktank_consulting,web_page,2026-01-23,URL /press/23january2026; release 23 January 2026 (catalog),no
+pwc2026ceoitaly_ai,thinktank_consulting,web_page,2026-03-03,Catalog: published 3 March 2026 (Internet Archive April 2026 snapshot),no
+teha2026aiskills,thinktank_consulting,survey_report,2026-03-10,"PDF cover/colophon ""Marzo 2026""; landing page ""10 marzo 2026"" (curl). Caveat: full PDF supplied by author 2026-10-01 (creationDate), public availability of the full report not verified",no
+anitec2026digitale,institutional,survey_report,2026-06,"PDF cover ""Giugno 2026""; creationDate 2026-06-29",no
+agcom2026ia,institutional,policy_report,2026-06-17,Catalog: published 17 June 2026; PDF creationDate 2026-06-05,no
+oecd2026eucpai_v2,institutional,policy_report,2026-02-18,Crossref issued/published-print 2026-02-18; (c) OECD 2026,no
+chiarini2026aiproduction,peer_reviewed,journal_article,2026-08-20,Crossref published-online 2026-08-20 (issue 2026-12-14); close to cutoff but before,no
+cattaruzzo2026complexity,peer_reviewed,journal_article,2026-02-27,Crossref published-online 2026-02-27 (VoR); local PDF is the 2024 WP,no
+agostino2026gvc,peer_reviewed,journal_article,2025-04-14,PDF/Crossref published online 2025-04-14 (issue 2026-01-02),no
+cucculelli2026enabling,peer_reviewed,journal_article,2025-09-16,PDF/Crossref published online 2025-09-16 (issue Aug 2026),no
+buarque2026geography,peer_reviewed,journal_article,2026-06-25,PDF/Crossref published online 2026-06-25,no
+grando2026lean,peer_reviewed,journal_article,2026-04-09,PDF/Crossref published online 2026-04-09,no
+scarpino2026iiot,peer_reviewed,conference_paper,2026-03,"Crossref issued 2026 (vol. 277), record created 2026-03-23; PDF creationDate 2026-03-17",no
+nevi2026cosmetics,peer_reviewed,journal_article,2026-03-24,"PDF ""Date of publication 24 March 2026; current version 29 April 2026""",no
+bravi2026hybrid,peer_reviewed,journal_article,2025-12-02,PDF/Crossref published online 2025-12-02 (issue 2026-07-03),no
+modica2026logistics,peer_reviewed,journal_article,2025-03-28,Crossref published-online 2025-03-28 (issue 2026-06-03),no
+horvat2026germany,peer_reviewed,journal_article,2026-08-01,PDF/Crossref published online 2026-08-01; close to cutoff but before,no
